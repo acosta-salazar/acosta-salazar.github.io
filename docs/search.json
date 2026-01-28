@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "You can download my full CV here:\n📄 Download CV (PDF)"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Selected Publications",
+    "section": "",
+    "text": "Acosta, J., Vallejos, R., & García-Soidán, P. (2025). A penalized estimation of the variogram and effective sample size. Spatial Statistics.\nAcosta, J., Vallejos, R., Ellison, A. M., Osorio, F., & de Castro, M. (2024). Comparing two spatial variables with the probability of agreement. Biometrics.\n\n[Full publication list available upon request.]"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Spatial and spatio-temporal statistics\nKriging and neighbor selection\nComposite likelihood inference\nEffective sample size in spatial models\nLarge-scale geostatistical computation"
+  },
+  {
+    "objectID": "research.html#current-research-areas",
+    "href": "research.html#current-research-areas",
+    "title": "Research",
+    "section": "",
+    "text": "Spatial and spatio-temporal statistics\nKriging and neighbor selection\nComposite likelihood inference\nEffective sample size in spatial models\nLarge-scale geostatistical computation"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jonathan Acosta Salazar",
+    "section": "",
+    "text": "Assistant Professor\nDepartment of Statistics\nFaculty of Mathematics\nPontificia Universidad Católica de Chile"
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Jonathan Acosta Salazar",
+    "section": "Research Interests",
+    "text": "Research Interests\nSpatial statistics, Spatio-temporal models, Time series, Composite likelihood, Spatial extremes, Large-scale spatial modeling."
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Jonathan Acosta Salazar",
+    "section": "Contact",
+    "text": "Contact\n📧 jnathan.acosta@uc.cl"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am an Assistant Professor at the Department of Statistics, Faculty of Mathematics,\nPontificia Universidad Católica de Chile.\nMy research focuses on spatial and spatio-temporal statistics, with emphasis on Gaussian random fields, composite likelihood methods, effective sample size, and scalable inference for large spatial datasets."
+  }
+]
