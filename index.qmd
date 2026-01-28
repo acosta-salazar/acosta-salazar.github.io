@@ -1,0 +1,14 @@
+---
+title: "Jonathan Acosta Salazar"
+---
+
+Assistant Professor  
+Department of Statistics  
+Faculty of Mathematics  
+Pontificia Universidad Católica de Chile
+
+## Research Interests
+Spatial statistics, Spatio-temporal models, Time series, Composite likelihood, Spatial extremes, Large-scale spatial modeling.
+
+## Contact
+📧 jnathan.acosta@uc.cl

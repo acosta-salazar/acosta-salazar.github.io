@@ -1,0 +1,8 @@
+---
+title: "Selected Publications"
+---
+
+- Acosta, J., Vallejos, R., & García-Soidán, P. (2025). *A penalized estimation of the variogram and effective sample size*. **Spatial Statistics**.
+- Acosta, J., Vallejos, R., Ellison, A. M., Osorio, F., & de Castro, M. (2024). *Comparing two spatial variables with the probability of agreement*. **Biometrics**.
+
+[Full publication list available upon request.]

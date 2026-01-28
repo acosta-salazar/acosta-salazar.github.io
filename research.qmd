@@ -1,0 +1,11 @@
+---
+title: "Research"
+---
+
+## Current Research Areas
+
+- Spatial and spatio-temporal statistics
+- Kriging and neighbor selection
+- Composite likelihood inference
+- Effective sample size in spatial models
+- Large-scale geostatistical computation

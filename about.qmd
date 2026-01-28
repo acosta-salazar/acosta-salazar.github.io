@@ -1,0 +1,10 @@
+---
+title: "About"
+---
+
+I am an Assistant Professor at the Department of Statistics, Faculty of Mathematics,  
+Pontificia Universidad Católica de Chile.
+
+My research focuses on spatial and spatio-temporal statistics, with emphasis on
+Gaussian random fields, composite likelihood methods, effective sample size,
+and scalable inference for large spatial datasets.
